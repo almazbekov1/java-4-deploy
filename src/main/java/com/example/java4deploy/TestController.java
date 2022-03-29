@@ -13,5 +13,12 @@ public class TestController {
     }
 
 
-    private String gets(){return null}
+    private String gets() {
+        System.out.println();
+        return null;
+    }
+
+    private void ha(){
+        System.out.println("ha");
+    }
 }
