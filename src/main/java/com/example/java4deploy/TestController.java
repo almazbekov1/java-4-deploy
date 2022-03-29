@@ -11,4 +11,9 @@ public class TestController {
     public String get() {
         return "hello";
     }
+
+    private void ha(){
+        System.out.println("ha");
+    }
+
 }
